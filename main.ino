@@ -41,7 +41,7 @@ WiFiClient client; // Client to communicate with ThingSpeak
 // AT commands for SIM808 to send SMS
 String AT = "AT\r\n";
 String AT_CMGF = "AT+CMGF=1\r\n"; 
-String AT_CMGS = "AT+CMGS=\"7284890760\"\r\n"; 
+String AT_CMGS = "AT+CMGS=\"8726361782\"\r\n"; 
 String SMS_TEXT = "Accident Detected at here - ";
 
 // Timing and flags
