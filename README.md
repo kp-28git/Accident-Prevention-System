@@ -1,4 +1,4 @@
-# Accident Detection and Reporting System
+# Real time Driver Alert System
 
 ## Overview
 This project implements an **Accident Detection and Reporting System** using the **ESP32**, and multiple sensors. It detects potential accidents by monitoring accelerometer data and alcohol sensor values, reports the location, and logs data to **ThingSpeak** for real-time monitoring.
